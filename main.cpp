@@ -91,7 +91,6 @@ int WINAPI WinMain (HINSTANCE hThisInstance,
 struct Point
 {
     int x,y;
-
     Point(int x=0, int y=0)
     {
         this->x = x;
